@@ -1,0 +1,1 @@
+This is my first project in web development. This is my first introduction to git as well. Great introduction to web development. I have good understanding of CSS, Javascript, JQuery and Ajax now.
